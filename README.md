@@ -1,1 +1,0 @@
-# nodepay-auto-multi
