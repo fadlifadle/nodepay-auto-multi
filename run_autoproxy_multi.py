@@ -5,7 +5,7 @@ import cloudscraper
 from loguru import logger
 from fake_useragent import UserAgent
 import aiohttp
-from banner.banner import banner
+from logo.banner import banner
 from colorama import Fore, Style, init
 
 # Constants
