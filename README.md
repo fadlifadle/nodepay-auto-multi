@@ -1,0 +1,3 @@
+- git clone https://github.com/fadlifadle/nodepay-auto-multi.git
+- pip install -r requirements.txt
+- python run_autoproxy_multi.py
